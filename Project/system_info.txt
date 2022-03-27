@@ -1,0 +1,40 @@
+Public IP Address: 103.195.203.180Processor: Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+System: Windows 10.0.19044
+Machine: AMD64
+Hostname: LAPTOP-PRTCJ9SR
+Private IP Address: 192.168.1.2
+Public IP Address: 103.195.203.180Processor: Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+System: Windows 10.0.19044
+Machine: AMD64
+Hostname: LAPTOP-PRTCJ9SR
+Private IP Address: 192.168.1.2
+Public IP Address: 45.127.47.178Processor: Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+System: Windows 10.0.19044
+Machine: AMD64
+Hostname: LAPTOP-PRTCJ9SR
+Private IP Address: 192.168.1.2
+Public IP Address: 45.127.47.178Processor: Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+System: Windows 10.0.19044
+Machine: AMD64
+Hostname: LAPTOP-PRTCJ9SR
+Private IP Address: 192.168.1.2
+Public IP Address: 103.195.203.180Processor: Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+System: Windows 10.0.19044
+Machine: AMD64
+Hostname: LAPTOP-PRTCJ9SR
+Private IP Address: 192.168.1.2
+Public IP Address: 45.127.47.178Processor: Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+System: Windows 10.0.19044
+Machine: AMD64
+Hostname: LAPTOP-PRTCJ9SR
+Private IP Address: 192.168.1.2
+Public IP Address: 103.195.203.180Processor: Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+System: Windows 10.0.19044
+Machine: AMD64
+Hostname: LAPTOP-PRTCJ9SR
+Private IP Address: 192.168.1.2
+Public IP Address: 103.195.203.180Processor: Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
+System: Windows 10.0.19044
+Machine: AMD64
+Hostname: LAPTOP-PRTCJ9SR
+Private IP Address: 192.168.1.2
